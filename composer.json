@@ -1,0 +1,10 @@
+{
+    "name": "pnikonov/damlev-bitrix",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "QSoft\\": ["src/"]
+        }
+    }
+}
